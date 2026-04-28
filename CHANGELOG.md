@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-04-27]
+### Changed
+- [prek]: auto-update hooks ([#1597](https://github.com/djangopackages/djangopackages/pull/1597))
+
 ## [2026-04-24]
 ### Changed
 - Fix RTD build: switch to uv run via build.commands ([#1594](https://github.com/djangopackages/djangopackages/pull/1594))
