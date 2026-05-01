@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-04-30]
+### Changed
+- ⬆️ Bump the all-dependencies group with 8 updates ([#1598](https://github.com/djangopackages/djangopackages/pull/1598))
+- Replace manual uv bootstrap with Read the Docs native uv support ([#1599](https://github.com/djangopackages/djangopackages/pull/1599))
+
 ## [2026-04-27]
 ### Changed
 - [prek]: auto-update hooks ([#1597](https://github.com/djangopackages/djangopackages/pull/1597))
