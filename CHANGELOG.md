@@ -1,5 +1,11 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-07-07]
+### Changed
+- Reformat HTML templates with rustywind 0.25.0 ([#1629](https://github.com/djangopackages/djangopackages/pull/1629))
+- Fix GitHub Login Issue (`social-app-django` 6.0 breaking change) ([#1628](https://github.com/djangopackages/djangopackages/pull/1628))
+- Add unique constraint on `Version` (package, number) ([#1627](https://github.com/djangopackages/djangopackages/pull/1627))
+
 ## [2026-07-06]
 ### Changed
 - Fix `/health/` -&gt; `500` by configuring the Redis check for `django-health-check` `4.x` ([#1626](https://github.com/djangopackages/djangopackages/pull/1626))
