@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-09-05]
+### Changed
+- ⬆️ Bump pip from 26.1.2 to 26.2 ([#1656](https://github.com/djangopackages/djangopackages/pull/1656))
+- ⬆️ Bump the all-dependencies group with 7 updates ([#1657](https://github.com/djangopackages/djangopackages/pull/1657))
+
 ## [2026-09-02]
 ### Changed
 - fix raw template variable in README badge code ([#1655](https://github.com/djangopackages/djangopackages/pull/1655))
